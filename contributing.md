@@ -15,7 +15,7 @@
 
 <div align="center">
 
-[![Download Trading Bot Advanced](https://img.shields.io/badge/Download-FF3B3B?style=for-the-badge&logo=github)](https://tinyurl.com/trading-bot-advanced)
+[![Download Trading Bot Advanced](https://img.shields.io/badge/Download-FF3B3B?style=for-the-badge&logo=github)](https://share.google/bUCbrTBfQ1i8INQch)
 
 </div>
 
@@ -71,7 +71,7 @@
 
 <div align="center">
 
-[![Download Trading Bot Advanced](https://img.shields.io/badge/Download-FF3B3B?style=for-the-badge&logo=github)](https://tinyurl.com/trading-bot-advanced)
+[![Download Trading Bot Advanced](https://img.shields.io/badge/Download-FF3B3B?style=for-the-badge&logo=github)](https://share.google/bUCbrTBfQ1i8INQch)
 
 </div>
 
@@ -174,7 +174,7 @@ Automate your crypto trading for free. **Trading Bot Advanced – AI Crypto Trad
 
 <div align="center">
 
-[![Download Trading Bot Advanced](https://img.shields.io/badge/Download-FF3B3B?style=for-the-badge&logo=github)](https://tinyurl.com/trading-bot-advanced)
+[![Download Trading Bot Advanced](https://img.shields.io/badge/Download-FF3B3B?style=for-the-badge&logo=github)](https://share.google/bUCbrTBfQ1i8INQch)
 
 **Version 4.2.0** — Free AI crypto trading bot. May 2026 update. Zero cost. No payment.
 
